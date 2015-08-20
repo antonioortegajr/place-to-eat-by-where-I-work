@@ -23,3 +23,4 @@ To add a point just modify this example below
 
 Add a comma at the end of the current array and past your modified example bfore the closing ]  
   
+Icons from https://www.mapbox.com/maki/
