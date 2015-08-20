@@ -16,6 +16,22 @@
                 "Place": "541 Sushi",
                 "Website": "http://www.yelp.com/biz/541-sushi-bar-eugene-2",
                 "Antonio Rating": "★★★"
+            },
+            {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -123.093570,
+                  44.050087
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "ice-cream",
+                "Place": "Red Wagon Creamery",
+                "Website": "http://redwagoncreamery.com/",
+                "Antonio Rating": "★★★★★"
             }
         }
     ]
