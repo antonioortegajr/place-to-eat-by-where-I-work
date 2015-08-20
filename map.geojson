@@ -12,7 +12,7 @@
             },
             "properties": {
                 "marker-color": "#CC0000",
-                "marker-symbol": "danger",
+                "marker-symbol": "restaurant",
                 "Place": "541 Sushi",
                 "Website": "http://www.yelp.com/biz/541-sushi-bar-eugene-2"
             }
