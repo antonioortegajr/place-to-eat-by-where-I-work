@@ -6,25 +6,25 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                  -123.089814,
-                  44.050055
+                    -123.089814,
+                    44.050055
                 ]
-            }
-        },
+            },
             "properties": {
                 "marker-color": "#CC0000",
                 "marker-symbol": "restaurant",
                 "Place": "541 Sushi",
                 "Website": "http://www.yelp.com/biz/541-sushi-bar-eugene-2",
                 "Antonio Rating": "★★★"
-            },
-            {
+            }
+        },
+        {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                  -123.093570,
-                  44.050087
+                    -123.09357,
+                    44.050087
                 ]
             },
             "properties": {
