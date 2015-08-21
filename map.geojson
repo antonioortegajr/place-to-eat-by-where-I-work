@@ -15,8 +15,8 @@
                 "marker-symbol": "restaurant",
                 "Place": "541 Sushi",
                 "Website": "http://www.yelp.com/biz/541-sushi-bar-eugene-2",
-                "Antonio Rating": "★★★"
-                ,"Emilee Rating": "★★"
+                "Antonio Rating": "★★★",
+                "Emilee Rating": "★★"
             }
         },
         {
@@ -33,6 +33,91 @@
                 "marker-symbol": "ice-cream",
                 "Place": "Red Wagon Creamery",
                 "Website": "http://redwagoncreamery.com/",
+                "Antonio Rating": "★★★★★"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.093421,
+                    44.050076
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "beer",
+                "Place": "First National Taphouse",
+                "Website": "http://www.firstnationaltaphouse.com/",
+                "Antonio Rating": "★★★★"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.092909,
+                    44.049818
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "restaurant",
+                "Place": "Sizzle Pie",
+                "Website": "http://www.sizzlepie.com/",
+                "Antonio Rating": "★★★★"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.094116,
+                    44.04961
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "restaurant",
+                "Place": "Dos Banderas",
+                "Website": "http://www.yelp.com/biz/dos-banderas-eugene",
+                "Antonio Rating": "★★★★★"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.093312,
+                    44.049801
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "restaurant",
+                "Place": "Killer Burger",
+                "Website": "http://www.killerburger.biz/",
+                "Antonio Rating": "★★★★★"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.097094,
+                    44.05054
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "restaurant",
+                "Place": "The Vintage",
+                "Website": "http://www.eugenevintage.com/",
                 "Antonio Rating": "★★★★★"
             }
         }
