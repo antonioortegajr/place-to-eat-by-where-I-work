@@ -120,6 +120,24 @@
                 "Website": "http://www.eugenevintage.com/",
                 "Antonio Rating": "★★★★★"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.089500,
+                    44.054732
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "restaurant",
+                "Place": "Cornucopia",
+                "Website": "http://www.cornucopiaeugene.com/",
+                "Antonio Rating": "★★★★"
+            }
         }
+        
     ]
 }
