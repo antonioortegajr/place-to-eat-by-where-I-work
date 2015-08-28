@@ -137,6 +137,275 @@
                 "Website": "http://www.cornucopiaeugene.com/",
                 "Antonio Rating": "★★★★"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.0875427,
+                    44.0478383
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "restaurant",
+                "Place": "The Cannery",
+                "Yelp Link": "http://www.yelp.com/biz/the-cannery-eugene",
+                "Antonio Rating": "★★★★"
+            }
+        },{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.0927423,
+                    44.0499197
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "restaurant",
+                "Place": "Kun Fusion Food Truck",
+                "Yelp Link": "http://www.yelp.com/biz/kun-fusion-food-truck-eugene"
+            }
+        },{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.09043121338,
+                    44.049934387207
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "restaurant",
+                "Place": "Bon Mi",
+                "Yelp Link": "http://www.yelp.com/biz/bon-mi-eugene",
+                "Antonio Rating": "★★★★"
+            }
+        },{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.0875778,
+                    44.0478592
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "restaurant",
+                "Place": "Cheba Hut",
+                "Yelp Link": "http://www.yelp.com/biz/cheba-hut-eugene",
+                "Antonio Rating": "★★★"
+            }
+        },{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.09204745767,
+                    44.045200411413
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "beer",
+                "Place": "Falling Sky Brewing",
+                "Yelp Link": "http://www.yelp.com/biz/falling-sky-brewing-eugene",
+                "Antonio Rating": "★★"
+            }
+        },{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.0929184,
+                    44.0548897
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "restaurant",
+                "Place": "Morning Glory Café",
+                "Yelp Link": "http://www.yelp.com/biz/morning-glory-caf%C3%A9-eugene-4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.0923462,
+                    44.0497856
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "restaurant",
+                "Place": "Belly",
+                "Yelp Link": "http://www.yelp.com/biz/belly-eugene-2"
+            }
+        },{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.084656,
+                    44.049629
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "restaurant",
+                "Place": "Burrito Boy",
+                "Yelp Link": "http://www.yelp.com/biz/burrito-boy-eugene-4",
+                "Antonio Rating": "★★★"
+            }
+        },{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.0894732,
+                    44.054749
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "beer",
+                "Place": "The Tap & Growler",
+                "Yelp Link": "http://www.yelp.com/biz/the-tap-and-growler-eugene",
+                "Antonio Rating": "★★★★"
+            }
+        },{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.09259412513,
+                    44.046855743597
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "restaurant",
+                "Place": "Viva! Vegetarian Grill",
+                "Yelp Link": "http://www.yelp.com/biz/viva-vegetarian-grill-eugene"
+            }
+        },{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.089462,
+                    44.04948
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "restaurant",
+                "Place": "Mezza Luna Pizzeria",
+                "Yelp Link": "http://www.yelp.com/biz/mezza-luna-pizzeria-eugene-3",
+                "Antonio Rating": "★★★★"
+            }
+        },{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.0913544,
+                    44.0464668
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "restaurant",
+                "Place": "Ta Ra Rin Thai Cuisine",
+                "Yelp Link": "http://www.yelp.com/biz/ta-ra-rin-thai-cuisine-eugene",
+                "Antonio Rating": "★★★"
+            }
+        },{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.0928879,
+                    44.0482788
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "restaurant",
+                "Place": "Kamitori Masa's Kitchen And Bakery",
+                "Yelp Link": "http://www.yelp.com/biz/kamitori-masas-kitchen-and-bakery-eugene"
+            }
+        },{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.082452,
+                    44.049912
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "beer",
+                "Place": "Elk Horn Brewery",
+                "Yelp Link": "http://www.yelp.com/biz/elk-horn-brewery-eugene-7",
+                "Antonio Rating": "★★★★"
+            }
+        },{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.0928839,
+                    44.050446
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "restaurant",
+                "Place": "Off The Waffle",
+                "Yelp Link": "http://www.yelp.com/biz/off-the-waffle-eugene-7",
+                "Antonio Rating": "★★★"
+            }
+        },{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.08975212276,
+                    44.05027538538
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "restaurant",
+                "Place": "Noodle Bowl",
+                "Yelp Link": "http://www.yelp.com/biz/noodle-bowl-eugene",
+                "Antonio Rating": "★★★★"
+            }
+        },{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.08952058311,
+                    44.05472280789
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "restaurant",
+                "Place": "Cornucopia Bar & Burgers",
+                "Yelp Link": "http://www.yelp.com/biz/cornucopia-bar-and-burgers-eugene",
+                "Antonio Rating": "★★★★"
+            }
         }
         
     ]
