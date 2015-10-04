@@ -21,7 +21,7 @@ To add a point just modify this example below
             }
         }
 
-Add a comma at the end of the current array and past your modified example bfore the closing ]  
+Add a comma at the end of the current array and past your modified example before the closing ]  
 
 you can also to a pull request to add your stars to loactions.
   
