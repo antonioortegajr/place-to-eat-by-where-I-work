@@ -323,21 +323,6 @@
             },
             "properties": {
                 "marker-color": "#CC0000",
-                "marker-symbol": "restaurant",
-                "Place": "Kamitori Masa's Kitchen And Bakery",
-                "Yelp Link": "http://www.yelp.com/biz/kamitori-masas-kitchen-and-bakery-eugene"
-            }
-        },{
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -123.082452,
-                    44.049912
-                ]
-            },
-            "properties": {
-                "marker-color": "#CC0000",
                 "marker-symbol": "beer",
                 "Place": "Elk Horn Brewery",
                 "Yelp Link": "http://www.yelp.com/biz/elk-horn-brewery-eugene-7",
