@@ -166,21 +166,6 @@
             "properties": {
                 "marker-color": "#CC0000",
                 "marker-symbol": "restaurant",
-                "Place": "Kun Fusion Food Truck",
-                "Yelp Link": "http://www.yelp.com/biz/kun-fusion-food-truck-eugene"
-            }
-        },{
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -123.09043121338,
-                    44.049934387207
-                ]
-            },
-            "properties": {
-                "marker-color": "#CC0000",
-                "marker-symbol": "restaurant",
                 "Place": "Bon Mi",
                 "Yelp Link": "http://www.yelp.com/biz/bon-mi-eugene",
                 "Antonio Rating": "★★★★"
