@@ -15,7 +15,8 @@
                 "marker-symbol": "restaurant",
                 "Place": "541 Sushi",
                 "Website": "http://www.yelp.com/biz/541-sushi-bar-eugene-2",
-                "Antonio Rating": "★★★",
+                "Antonio Rating": "★★",
+                "Antonio Desc": "Very quick sushi go round",
                 "Emilee Rating": "★★"
             }
         },
@@ -33,23 +34,6 @@
                 "marker-symbol": "beer",
                 "Place": "First National Taphouse",
                 "Website": "http://www.firstnationaltaphouse.com/",
-                "Antonio Rating": "★★★★"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -123.092909,
-                    44.049818
-                ]
-            },
-            "properties": {
-                "marker-color": "#CC0000",
-                "marker-symbol": "restaurant",
-                "Place": "Sizzle Pie",
-                "Website": "http://www.sizzlepie.com/",
                 "Antonio Rating": "★★★★"
             }
         },
@@ -167,7 +151,7 @@
                 "marker-symbol": "beer",
                 "Place": "Falling Sky Brewing",
                 "Yelp Link": "http://www.yelp.com/biz/falling-sky-brewing-eugene",
-                "Antonio Rating": "★★"
+                "Antonio Rating": "★★★★"
             }
         },{
             "type": "Feature",
